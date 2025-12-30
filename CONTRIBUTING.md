@@ -19,3 +19,4 @@ Notes and usage details for mem0-mcp-selfhosted.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
