@@ -37,3 +37,4 @@ Notes and usage details for mem0-mcp-selfhosted.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
